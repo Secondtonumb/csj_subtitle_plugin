@@ -6,5 +6,5 @@ This Plugin contains 3 parts of function:
 
 ## Voice activity detection
 ## ESPnet-like preparation
-## srt-format Subtitle generation
+## Srt-format Subtitle generation
 
