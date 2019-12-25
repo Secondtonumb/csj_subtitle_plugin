@@ -1,10 +1,10 @@
-CSJ Subtitle Generator Plugin
+# CSJ Subtitle Generator Plugin
 
-This is as plugin based on ESPnet toolkit CSJ ASR recipe, aiming at generating subtitle from Japanese-speech Audio file. As CSJ corpus is essentially created by academic speech recording so we highly recommend using this tool on academic-domain japanese ASR.
+This is a plugin based on ESPnet toolkit CSJ ASR recipe, aiming at generating subtitle from Japanese-speech Audio file AUTOMATICALLY. As CSJ corpus is essentially created by academic speech recording so we highly recommend using this tool on academic-domain japanese ASR.
 
-This Plugin contains 3 function parts:
+This Plugin contains 3 parts of function:
 
-# Voice activity detection
-# ESPnet-like preparation
-# srt-formant Subtitle generation
+## Voice activity detection
+## ESPnet-like preparation
+## srt-format Subtitle generation
 
